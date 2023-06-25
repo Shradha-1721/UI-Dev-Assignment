@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    font-size: 1.1em;
+    color: #fff;
+    margin-top: 250px;
+    margin-left: 35%;
+    margin-right: 35%; ;
+    padding-left: 120px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 70px;
+    border-radius: 15px;
+    background-color: rgba(24, 173, 91, 0.836);
+    font-weight: bold;
+    font-family: sans-serif;
+    line-height: 30px;
+}
